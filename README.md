@@ -1,6 +1,6 @@
 # Testing
-Testing for git functions of cooperation
+Testing for git functions of cooperation.
 
-Update for testing the commit function.
+Replace this line for creating conflicts.
 
 Test for merge conflicts.
